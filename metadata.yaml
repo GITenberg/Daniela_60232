@@ -1,5 +1,8 @@
 _repo: Daniela_60232
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Suttner, Bertha von
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7643
     wikipedia: http://en.wikipedia.org/wiki/Bertha_von_Suttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60232#Daniela
 gutenberg_issued: '2019-09-03'
 gutenberg_type: Text
 identifiers:
